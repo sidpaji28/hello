@@ -26,7 +26,7 @@ phi_spacing = 2
 chars = ".,-~:;=!*#$@"
 
 R1 = 10
-R2 = 23
+R2 = 0
 K2 = 50
 K1 = screen_height * K2 * 3 / (8 * (R1 + R2))
 
